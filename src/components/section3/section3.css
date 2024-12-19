@@ -1,0 +1,22 @@
+.section3{
+    display: flex;
+    margin-top: 8%;
+}
+.sec3-title{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.sec3-text{
+    font-size: 17px;
+    font-weight: 400;
+    color: #363863;
+    width: 500px;
+}
+.sec3-span{
+    display: flex;
+    gap: 8%;
+}
+.section3-left{
+    margin-top: 8%;
+}

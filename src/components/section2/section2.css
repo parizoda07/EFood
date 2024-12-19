@@ -1,0 +1,30 @@
+.sec2-time{
+    color: #363853;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0;
+}
+.sec2-span{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+
+}
+.kard{
+    width: 362px;
+    background: rgb(252, 252, 251);
+}
+.sec2-title{
+    font-size: 24px;
+    color: #363853;
+    font-weight: 400;
+    margin: 0;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+.kard-wrapper{
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+}

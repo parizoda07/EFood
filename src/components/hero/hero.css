@@ -1,0 +1,32 @@
+.hero-img{
+    width: 600px;
+    height: 600px;
+}
+.hero-text{
+color: #363853;
+width: 500px;
+font-size: 18px;
+}
+.hero-title{
+    width: 700px;
+    font-size: 50px;
+    padding-top: 10%;
+}
+span{
+    color: #FF7A50;
+}
+.btn-link{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+.hero-link{
+    color: #363853;
+}
+.hero-right{
+  
+}

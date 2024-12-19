@@ -1,0 +1,100 @@
+.cards {
+    width: 220px;
+    height: 320px;
+    border: 0.1px solid rgb(199, 196, 196);
+    border-radius: 8px;
+    margin-top: 10px;
+    background: rgb(247, 242, 242);
+
+}
+
+.cards2 {
+    margin-top: 10px;
+    width: 220px;
+    height: 320px;
+    border: 0.1px solid rgb(199, 196, 196);
+    border-radius: 8px;
+    background: rgb(247, 242, 242);
+
+}
+
+.cards-title2 {
+    width: 150px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 30%;
+}
+
+.cards-title {
+    width: 150px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 20%;
+
+}
+
+.cards-price2 {
+    color: #363853;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.cards-price {
+    color: #363853;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.cards-btn2 {
+    width: 100px;
+    height: 32px;
+    background: #FF7A50;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    margin-left: 25%;
+}
+
+.cards-btn {
+    width: 100px;
+    height: 32px;
+    background: #FF7A50;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    margin-left: 25%;
+
+}
+
+.cards-img {
+    /* margin-top: 3%; */
+    margin-left: 20%;
+}
+
+.cards-img2 {
+    margin-left: 25%;
+
+}
+
+.cards-img1 {
+    margin-left: 20%;
+width: 150px;
+}
+
+.cards-img3 {
+    margin-left: 25%;
+    /* margin-top: 7%; */
+
+}
+
+.cards-wrapper {
+    display: flex;
+    gap: 25px;
+}
+.cards-Image{
+    width: 180px;
+    margin-top: 3%;
+ margin-left: 43%;
+}
